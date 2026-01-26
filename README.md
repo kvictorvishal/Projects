@@ -35,7 +35,7 @@ This repository reflects my ability to:
 
 → AI-Powered Q&A System/
         
-        → AI-Powered-Question-Answering-System-using-RAG-main/
+   → AI-Powered-Question-Answering-System-using-RAG-main/
 
 → Cash_Flow_Minimizer/
 
