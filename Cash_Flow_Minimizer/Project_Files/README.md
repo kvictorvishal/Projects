@@ -1,3 +1,3 @@
-# Cash Flow Minimizer – Hackathon Project
+# Cash Flow Minimizer – Project
 
-Complete hackathon-ready project.
+Complete ready project.
