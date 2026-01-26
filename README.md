@@ -142,4 +142,4 @@ Explore individual project directories for deeper technical insights.
 ## 📫 Contact
 
 - **GitHub:** https://github.com/victorvishal/k-victor-vishal  
-- **LinkedIn:** https://www.linkedin.com/in/k-victorvishal-0879a7257/
+- **LinkedIn:** https://www.linkedin.com/in/kvictorvishal-%E2%80%8E-0879a7257/
