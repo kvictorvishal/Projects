@@ -1,8 +1,7 @@
 # Document Q&A System
 
 This project is a **Document Q&A System** that allows users to upload documents and ask questions about their content. The system uses a combination of **FastAPI** for the backend and **Streamlit** for the frontend. It leverages **OpenAI's language models** and **FAISS** for vector storage to provide accurate and relevant answers to user queries.
-![alt text](image.png)
-![img.png](img.png)
+
 ## Project Structure
 
 ```bash
